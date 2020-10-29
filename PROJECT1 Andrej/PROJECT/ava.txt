@@ -1,0 +1,21 @@
+20 20
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P A P P A P P P P P P P P P P 
+P P P P P P B P P B P P P P P P P P P P 
+P P P P P P C P P C P P P P P P P P P P 
+P P P P P P D P P D P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P 

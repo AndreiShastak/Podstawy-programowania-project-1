@@ -1,0 +1,21 @@
+50 20
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
+P P P P P P P P P P P P P P P P P P P P P P P P P P D P P P P P P P P P P P P P P P P P P P P P P P 
